@@ -2,6 +2,8 @@
 
 A simple and functional calculator built using **C#** and **Windows Forms** in Visual Studio. This project was created to practice event-driven programming and UI design.
 
+<img src="Screenshot (465).png" width="600" alt="Tafseel">
+
 ## ✨ Features
 
 - ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
